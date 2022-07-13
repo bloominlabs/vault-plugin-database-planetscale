@@ -55,7 +55,7 @@ vault write database/roles/admin \
 
 The is not currently implemented, but will be added in the future.
 
-### Generate a new Token
+### Generate a new username and password
 
 To generate a new token:
 
@@ -82,12 +82,6 @@ See the build targets for more information. Common targets include
 ```bash
 # build a local version of the plugin
 $ earthly +build
-
-# execute integration tests
-#
-# use https://developers.auth0.com/api/tokens/create to create a token
-# with 'User:API Tokens:Edit' permissions
-$ TEST_auth0_TOKEN=<YOUR_auth0_TOKEN> earthly --secret TEST_auth0_TOKEN +test
 
 # start vault and enable the plugin locally
 earthly +dev
