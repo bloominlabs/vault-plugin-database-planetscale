@@ -60,7 +60,7 @@ vault write database/config/$MNT_PATH \
     organization="bloominlabs" \
     database="bloominlabs" \
     service_token=$PLANETSCALE_SERVICE_TOKEN \
-    service_token_id=$PLANETSCALE_SERVICE_TOKEN_ID 
+    token_name=$PLANETSCALE_SERVICE_TOKEN_ID 
 
 # vault read database/creds/admin
 vault write database/roles/admin \
