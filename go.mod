@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/vault/sdk v0.9.0
 	github.com/jackc/pgx/v4 v4.18.1
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/planetscale/planetscale-go v0.86.0
+	github.com/planetscale/planetscale-go v0.87.0
 )
 
 require (
