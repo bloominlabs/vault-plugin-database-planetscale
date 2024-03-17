@@ -169,8 +169,8 @@ github.com/hashicorp/go-version v1.6.0/go.mod h1:fltr4n8CU8Ke44wwGCBoEymUuxUHl09
 github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
 github.com/hashicorp/golang-lru v0.5.4 h1:YDjusn29QI/Das2iO9M0BHnIbxPeyuCHsjMW+lJfyTc=
 github.com/hashicorp/golang-lru v0.5.4/go.mod h1:iADmTwqILo4mZ8BN3D2Q6+9jd8WM5uGBxy+E8yxSoD4=
-github.com/hashicorp/vault/sdk v0.11.0 h1:KP/tBUywaVcvOebAfMPNCCiXKeCNEbm3JauYmrZd7RI=
-github.com/hashicorp/vault/sdk v0.11.0/go.mod h1:cG0OZ7Ebq09Xn2N7OWtHbVqq6LpYP6fkyWo0PIvkLsA=
+github.com/hashicorp/vault/sdk v0.11.1 h1:mH/MYHBSrl594e+KT6Qhj5+kTmG02n1aZ3mYwCL0mdI=
+github.com/hashicorp/vault/sdk v0.11.1/go.mod h1:t+Jt1xvh48cuew8eYjM0F2+MFcjNvG4Ow60K7/2yaUU=
 github.com/hashicorp/yamux v0.1.1 h1:yrQxtgseBDrq9Y652vSRDvsKCJKOUD+GzTS4Y0Y8pvE=
 github.com/hashicorp/yamux v0.1.1/go.mod h1:CtWFDAQgb7dxtzFs4tWbplKIe2jSi3+5vKbgIO0SLnQ=
 github.com/jackc/chunkreader v1.0.0/go.mod h1:RT6O25fNZIuasFJRyZ4R/Y2BbhasbmZXF9QQ7T3kePo=
